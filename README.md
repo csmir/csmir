@@ -1,6 +1,6 @@
 ## About me:
 
-🏫 Student at **ROC Lelystad**, Flevoland, Netherlands.
+🏫 Software Development at **ROC van Flevoland**, Netherlands.
 
 🎮 Terraria, Ori atBF & WotW, Legend of Zelda and many more sandbox & action-adventure titles.
 
