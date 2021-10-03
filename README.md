@@ -2,9 +2,8 @@
 
 * 🏫 Current occupation:
   * Studying Software Development at **ROC van Flevoland**, Netherlands.
-  * Hobbying as community manager on several communities.
+  * Community manager on several communities.
   * Maintaining documentation at [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs)
-  * Working at Jumbo groceries.
 
 * 🎮 Games I love:
   * Death's door
