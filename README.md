@@ -34,5 +34,8 @@
 
 ## More about me & where to find me:
 
-* 💻 [Visit my website](https://rozen.one)
-* 🔗 [Join my Discord](https://pixelgalactic.com/discord)
+* 🎮 [Steam](https://steamcommunity.com/id/Rozen4334/)
+* 🎧 [Spotify](https://open.spotify.com/user/a.tdb_?si=3bd7bb95ad8e4bdd)
+* 💻 [My website](https://rozen.one)
+
+* 🔗 [Join my Discord!](https://pixelgalactic.com/discord)
