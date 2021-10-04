@@ -1,3 +1,10 @@
+## Projects:
+
+* 📑 [Tshock-Plugins](https://github.com/Rozen4334/Tshock-plugins)
+  * A list of all my Terraria plugins, even those not available in my repositories!
+
+----
+
 ## About me:
 
 ### Where to find me:
