@@ -2,6 +2,8 @@
 
 * 📑 [Tshock-Plugins](https://github.com/Rozen4334/Tshock-plugins)
   * A list of all my Terraria plugins, even those not available in my repositories!
+* ⏳ [Chrono](https://github.com/Rozen4334/Chrono)
+  * A library to handle custom time input & trigger events!
 
 ----
 
