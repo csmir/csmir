@@ -1,7 +1,5 @@
 ## Projects:
 
-* 📑 [Tshock-Plugins](https://github.com/Rozen4334/Tshock-plugins)
-  * A list of all my Terraria plugins, even those not available in my repositories!
 * ⏳ [Chrono](https://github.com/Rozen4334/Chrono)
   * A library to handle custom time input & trigger events!
 
@@ -33,8 +31,3 @@
 * A .NET Library for C# that offers full support in creating Discord bots, webhooks and much more!
   * 📚 [Source](https://github.com/Discord-Net-Labs/Discord.Net-Labs)
   * 🔗 [Discord](https://invite.discord-net-labs.com)
-
-### TShock for Terraria
-* A Terraria server API supporting plugin development.
-  * 📚 [Source](https://github.com/Pryaxis/TShock)
-  * 🔗 [Discord](https://discord.com/invite/Cav9nYX)
