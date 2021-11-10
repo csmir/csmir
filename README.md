@@ -33,3 +33,8 @@
 * A .NET Library for C# that offers full support in creating Discord bots, webhooks and much more!
   * 📚 [Source](https://github.com/Discord-Net-Labs/Discord.Net-Labs)
   * 🔗 [Discord](https://invite.discord-net-labs.com)
+
+### TShock for Terraria
+* A Terraria server API supporting plugin development.
+  * 📚 [Source](https://github.com/Pryaxis/TShock)
+  * 🔗 [Discord](https://discord.com/invite/Cav9nYX)
