@@ -24,7 +24,8 @@
 ### Languages I am familiar with:
 * C#, .NET
 * Java 
-* HTML, CSS & Javascript/Typescript
+* HTML, CSS 
+* Javascript/Typescript
 * PHP & SQL
 
 ## Libraries & API's I work with:
