@@ -4,6 +4,8 @@
   * A library to handle custom time input & trigger events!
 * 📑 [Tshock-Plugins](https://github.com/Rozen4334/Tshock-plugins)
   * A list of all my Terraria plugins, even those not available in my repositories!
+* 🧾 [Reporter](https://github.com/Rozen4334/Reporter)
+  * Assist in logging offenses by players in Sandbox games!
 
 ----
 
@@ -25,7 +27,6 @@
 * C#, .NET
 * Java 
 * HTML, CSS 
-* Javascript/Typescript
 * PHP & SQL
 
 ## Libraries & API's I work with:
