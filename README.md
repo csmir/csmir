@@ -7,6 +7,12 @@
 * 🧾 [Reporter](https://github.com/Rozen4334/Reporter)
   * Assist in logging offenses by players in Sandbox games!
 
+## Organizations:
+* 🌲 [Terraria.One](https://github.com/Terraria-One)
+  * Terraria One's open source work.
+* 🗺️ [Discord.NET Labs](https://github.com/Discord-Net-Labs)
+  * Development branch of Discord.NET. Documentation maintained by me.
+
 ----
 
 ## About me:
