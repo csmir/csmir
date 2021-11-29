@@ -22,7 +22,7 @@
 * 🎧 [Spotify](https://open.spotify.com/user/a.tdb_?si=3bd7bb95ad8e4bdd)
 * 💻 [My website](https://rozen.one)
 
-* 🔗 [Join my Discord!](https://pixelgalactic.com/discord)
+* 🔗 [Join my Discord!](https://dev.rozen.one/barriot/invite)
 
 ### Current occupation:
 * 🏫 Studying Software Development at **ROC van Flevoland**, Netherlands.
