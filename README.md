@@ -27,7 +27,7 @@
 ### Current occupation:
 * 🏫 Studying Software Development at **ROC van Flevoland**, Netherlands.
 * 👨‍💼 Community manager on several communities.
-* 📃 Maintaining documentation at [Discord.Net-Labs](https://github.com/Discord-Net-Labs/Discord.Net-Labs)
+* 📃 Maintaining documentation for [Discord.Net](https://github.com/discord-net/Discord.Net)
 
 ### Languages I am familiar with:
 * C#, .NET
