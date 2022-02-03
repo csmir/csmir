@@ -1,21 +1,6 @@
-## Projects:
+# About me
 
-* ⏳ [Chrono](https://github.com/Rozen4334/Chrono)
-  * A library to handle custom time input & trigger events!
-* 📑 [Tshock-Plugins](https://github.com/Rozen4334/Tshock-plugins)
-  * A list of all my Terraria plugins, even those not available in my repositories!
-* 🧾 [Reporter](https://github.com/Rozen4334/Reporter)
-  * Assist in logging offenses by players in Sandbox games!
-
-## Organizations:
-* 🌲 [Terraria.One](https://github.com/Terraria-One)
-  * Terraria One's open source work.
-* 🗺️ [Discord.NET Labs](https://github.com/Discord-Net-Labs)
-  * Development branch of Discord.NET. Documentation maintained by me.
-
-----
-
-## About me:
+I do not like conservatism, so I do not like legacy languages.
 
 ### Where to find me:
 * 🎮 [Steam](https://steamcommunity.com/id/Rozen4334/)
@@ -26,23 +11,39 @@
 
 ### Current occupation:
 * 🏫 Studying Software Development at **ROC van Flevoland**, Netherlands.
-* 👨‍💼 Community manager on several communities.
-* 📃 Maintaining documentation for [Discord.Net](https://github.com/discord-net/Discord.Net)
+* 👨‍💼 Managing Discord communities here and there, filling in development needs so long as I enjoy the community.
+* 📃 Contributing & maintaining documentation at [Discord.Net](https://github.com/discord-net/Discord.Net)
 
-### Languages I am familiar with:
-* C#, .NET
-* Java 
-* HTML, CSS 
-* PHP & SQL
+## Projects
 
-## Libraries & API's I work with:
+* ⏳ [Chrono](https://github.com/Rozen4334/Chrono)
+  * A library to handle custom time input & trigger events!
 
-### Discord.Net-Labs
-* A .NET Library for C# that offers full support in creating Discord bots, webhooks and much more!
-  * 📚 [Source](https://github.com/Discord-Net-Labs/Discord.Net-Labs)
-  * 🔗 [Discord](https://invite.discord-net-labs.com)
+## Experience
+
+### Languages:
+* 👩‍💻 .NET (C#, VB) through which I work with:
+  * ASP.NET
+  * EFCore
+  * Xamarin
+* 📱 Native Android coupled with:
+  * Java
+  * Kotlin
+
+### Databases:
+* 🖇 Relational:
+  * Oracle SQL
+  * PostGreSQL
+* ⛓ Non-relational:
+  * MongoDB
+  * Cassandra
+
+## Libraries & API's I work on/with.
+
+### Discord.Net
+* A .NET Library that offers full support in creating Discord bots, webhooks and much more!
+  * 📚 [Source](https://github.com/Discord-Net/Discord.Net)
 
 ### TShock for Terraria
 * A Terraria server API supporting plugin development.
   * 📚 [Source](https://github.com/Pryaxis/TShock)
-  * 🔗 [Discord](https://discord.com/invite/Cav9nYX)
