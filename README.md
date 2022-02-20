@@ -23,9 +23,12 @@ I do not like conservatism, so I do not like legacy languages.
 
 ### Languages:
 * 👩‍💻 .NET (C#, VB) through which I work with:
+  * Core
   * ASP.NET
   * EFCore
   * Xamarin
+  * XNA-FNA
+  * Unity (In progress)
 * 📱 Native Android coupled with:
   * Java
   * Kotlin
