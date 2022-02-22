@@ -3,6 +3,7 @@
 I do not like conservatism, so I do not like legacy languages.
 
 ### Where to find me:
+* 🔗 [LinkedIn](www.linkedin.com/in/armano-den-boef)
 * 🎮 [Steam](https://steamcommunity.com/id/Rozen4334/)
 * 🎧 [Spotify](https://open.spotify.com/user/a.tdb_?si=3bd7bb95ad8e4bdd)
 * 💻 [My website](https://rozen.one)
