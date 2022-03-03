@@ -8,7 +8,7 @@ I do not like conservatism, so I do not like legacy languages.
 * 🎧 [Spotify](https://open.spotify.com/user/a.tdb_?si=3bd7bb95ad8e4bdd)
 * 💻 [My website](https://rozen.one)
 
-* 🔗 [Join my Discord!](https://dev.rozen.one/barriot/invite)
+* 🔗 [Join my Discord!](https://barriot.xyz/discord)
 
 ### Current occupation:
 * 🏫 Studying Software Development at **ROC van Flevoland**, Netherlands.
@@ -16,6 +16,12 @@ I do not like conservatism, so I do not like legacy languages.
 * 📃 Contributing & maintaining documentation at [Discord.Net](https://github.com/discord-net/Discord.Net)
 
 ## Projects
+
+* 📲 [Discord.NET](https://github.com/discord-net/Discord.Net)
+  * A .NET wrapper around the Discord API.
+
+* 🤖 [Barriot](https://github.com/Rozen4334/Barriot)
+  * A public Discord bot implementing lots of entertaining and QOL features.
 
 * ⏳ [Chrono](https://github.com/Rozen4334/Chrono)
   * A library to handle custom time input & trigger events!
@@ -41,13 +47,3 @@ I do not like conservatism, so I do not like legacy languages.
 * ⛓ Non-relational:
   * MongoDB
   * Cassandra
-
-## Libraries & API's I work on/with.
-
-### Discord.Net
-* A .NET Library that offers full support in creating Discord bots, webhooks and much more!
-  * 📚 [Source](https://github.com/Discord-Net/Discord.Net)
-
-### TShock for Terraria
-* A Terraria server API supporting plugin development.
-  * 📚 [Source](https://github.com/Pryaxis/TShock)
