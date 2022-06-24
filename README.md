@@ -1,15 +1,18 @@
 # 👤 About me
 
-Check out my own take on a Discord bot [here](https://github.com/Rozen4334/Barriot)!
+A dedicated fullstack .NET developer with knowledge in ASP.NET, EFCore, WPF & more!
+
+* 🏫 Studying CS at **ROC van Flevoland**, Netherlands.
+* 🏢 Working at Amayable & The Big Data Company.
+* 🧑‍💻 Maintaining & developing [barriot.xyz](https://github.com/barriot-xyz).
+* ⚒️ Contributing to [Discord.Net](https://github.com/discord-net/Discord.Net).
+
+> Check out my progress on my own Discord wrapper & bots [here](https://github.com/barriot-xyz)!
 
 ## 🔗 Where to find me:
 * [LinkedIn](www.linkedin.com/in/armano-den-boef)
 * [Steam](https://steamcommunity.com/id/Rozen4334/)
-* [Spotify](https://open.spotify.com/user/a.tdb_?si=3bd7bb95ad8e4bdd)
-* [My website](https://rozen.one)
-* [Join my Discord!](https://barriot.xyz/discord)
+* [Discord](https://barriot.xyz/discord)
+* [Visit my website!](https://rozen.one)
 
-## 👨‍💼 Current occupation:
-* Studying Software Development at **ROC van Flevoland**, Netherlands.
-* Working at Amayable & The Big Data Company.
-* Contributing & maintaining documentation at [Discord.Net](https://github.com/discord-net/Discord.Net).
+> For contact outside of social platforms, send a message to: `contact@rozen.one`.
