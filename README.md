@@ -6,6 +6,7 @@ A dedicated fullstack .NET developer with knowledge in ASP.NET, EFCore, WPF & mo
 * 🏢 Working at Amayable & The Big Data Company.
 * 🧑‍💻 Maintaining & developing [barriot.xyz](https://github.com/barriot-xyz).
 * ⚒️ Contributing to [Discord.Net](https://github.com/discord-net/Discord.Net).
+* 🪟 Creator of [CSF.NET](https://github.com/Rozen4334/CSF.NET).
 
 > Check out my progress on my own Discord wrapper & bots [here](https://github.com/barriot-xyz)!
 
