@@ -5,7 +5,7 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
 <h3 align="center">Languages</h3>
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="F#" src="https://img.shields.io/badge/f%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="F#" src="https://img.shields.io/badge/f%23-%233585B1.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <br/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -15,7 +15,7 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
   <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="MD" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <br/>
 </p>
