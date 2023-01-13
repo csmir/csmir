@@ -50,6 +50,7 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
   <br/>
+  <img alt="EdgeDB" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Frozen.one%2Fbadges%2Fedgedb.json" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 <h3 align="center">Where to find me:</h3>
