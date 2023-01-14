@@ -2,7 +2,7 @@
 <p align="center">
 A fullstack software developer primarily focussed on .NET, who is determined to eliminate your boilerplate.
 </p>
-<h4 align="center"><a href="csmir.me" target="_blank">More about me</a></h4>
+<h4 align="center"><a href="https://csmir.me" target="_blank">More about me</a></h4>
 <h3 align="center">Languages</h3>
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
