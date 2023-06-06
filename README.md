@@ -25,7 +25,6 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img alt="CSF" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcsmir.me%2Fbadges%2Fcsf.json" />
   </br>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
@@ -53,7 +52,6 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
   <br/>
-  <img alt="EdgeDB" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcsmir.me%2Fbadges%2Fedgedb.json" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 <h3 align="center">Where to find me:</h3>
