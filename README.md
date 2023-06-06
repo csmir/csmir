@@ -59,9 +59,6 @@ A fullstack software developer primarily focussed on .NET, who is determined to 
   <a href="https://github.com/csmir" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
-  <a href="https://barriot.xyz/discord" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/armano-den-boef" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
