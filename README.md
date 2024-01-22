@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Casmir</h2>
+<h2 align="center">Hi, I'm Armano</h2>
 <p align="center">
-A fullstack software developer primarily focussed on .NET, who is determined to eliminate your boilerplate.
+A backend software engineer primarily focussed on the .NET ecosystem, determining myself to reduce boilerplate in your applications.
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
