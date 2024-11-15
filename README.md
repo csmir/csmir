@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Armano</h2>
+<h2 align="center">Hi, I'm Simir</h2>
 <p align="center">
-A backend software engineer primarily focussed on the .NET ecosystem.
+A fullstack software engineer primarily focussed on the .NET ecosystem.
 </p>
 <h3 align="center">Find me on Linkedin:</h3>
 <p align="center">
